@@ -7,6 +7,6 @@ Reading a long text is extremely time-consuming. A Text Summarizer takes the tex
 -transformers
 ## Working
 1. Download the necessary package
-2. Run all the cells in the Google Colab Notebook <a href="https://colab.research.google.com/drive/1uBjQqmmhfvVnOKMVv7GekvoSmEEl1WHG">ZipApp_Colab</a>
+2. Run all the cells in the Google Colab Notebook <a href="https://colab.research.google.com/drive/1uBjQqmmhfvVnOKMVv7GekvoSmEEl1WHG"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 3. Copy the link and paste it in the browser
 ## Demo
