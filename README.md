@@ -10,4 +10,4 @@ Reading a long text is extremely time-consuming. A Text Summarizer takes the tex
 2. Run all the cells in the Google Colab Notebook <a href="https://colab.research.google.com/drive/1uBjQqmmhfvVnOKMVv7GekvoSmEEl1WHG"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 3. Copy the link and paste it in the browser
 ## Demo
-<a href="https://youtu.be/6IvDXrAn5Ik"><img src="https://drive.google.com/file/d/15OmtbG6dnlpzp6sUB8da88BVhGk_CWRk/view?usp=sharing"></a>
+![](ZipText.gif)
